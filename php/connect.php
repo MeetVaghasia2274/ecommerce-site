@@ -2,7 +2,7 @@
 // Database connection
 $servername = "sql100.infinityfree.com";
 $username = "if0_39611098";
-$password = "Skpi051wu0s";
+$password = "";
 $dbname = "if0_39611098_shopeasy";
 
 // Create connection
